@@ -34,3 +34,44 @@ The project includes four clean Excel files:
 | `1.SalesManagers.xlsx`   | Dimension – Country → Sales Manager mapping           | 15       |
 | `3.Dates.xlsx`           | Full Date table (Excel serial dates: 42370 → 43830)   | ~1,500+  |
 
+#Overview Dashboard
+![Sales Performance Dashboard Preview](Sales_Overview.png)
+
+Markdown# Sales Performance Dashboard – Overview
+
+![Dashboard Preview](dashboard-preview.png)
+
+**Interactive Executive Dashboard** delivering a 360° view of global sales performance (2016–2018)
+
+### Key Metrics (All Time – All Countries)
+| Metric            | Value               | Change vs Previous |
+|-------------------|---------------------|--------------------|
+| Total Revenue     | **$1.07 billion**   | ↑ 3.6%             |
+| Total Profit      | **$450.97 million** | ↑ 3.6%             |
+| Total Orders      | **73K**             | ↑ 3.3%             |
+| Units Sold        | **13 million**      | ↑ 2.9%             |
+| Gross Margin      | **42.20%**          | ↑ 3.6%             |
+
+### Core Visualizations
+- **Revenue by Country** (Bar Chart)  
+  United States dominates (> $200M), followed by Japan, Canada, China, United Kingdom  
+
+- **Revenue by Product Line** (Donut Chart)  
+  1. Video Games – 38.75% ($414.3M)  
+  2. Mobile      – 30.52% ($326.2M)  
+  3. Computer    – 20.54% ($219.5M)  
+  4. Home & Kitchen – 9.38% ($99.35M)  
+  5. Books       – minor share  
+
+- **Profit & Revenue Trend 2016–2018** (Area + Line Chart)  
+  Consistent upward growth year-over-year  
+
+- **Top Sales Managers Leaderboard**  
+  | Rank | Sales Manager      | Country        | Total Revenue |
+  |------|--------------------|----------------|---------------|
+  | 1    | Wang Shu           | China          | $80.09M       |
+  | 2    | George Jones       | United Kingdom | $79.86M       |
+  | 3    | Jonas Müller       | Germany        | $78.84M       |
+  | …    | …                  | …              | …             |
+
+
